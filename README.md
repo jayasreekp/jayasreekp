@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayasreekp
 - 👀 I’m interested in Data Analysts job openings
-- 🌱 I’m currently completing the Junior Data Analyst program  at Npower Canada
+- 🌱 I’ve completed the Junior Data Analyst program  at Npower Canada
 - 📫 You can reach me at jayasreekp19@gmail.com or on LinkedIn: https://www.linkedin.com/in/jayasree-k-00770128b/
 
 <!---
